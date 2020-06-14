@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "311992653670",
+    "firebase_url": "https://autolay-89482.firebaseio.com",
+    "project_id": "autolay-89482",
+    "storage_bucket": "autolay-89482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311992653670:android:23eb0d00a541350c435aa7",
+        "android_client_info": {
+          "package_name": "com.example.first_fullter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311992653670-5pq88pp0q5r17nbu7pr8gf5icm18pk1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS6EP3t5wS8Irh7okha6HyRatjDZc9K_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311992653670-5pq88pp0q5r17nbu7pr8gf5icm18pk1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

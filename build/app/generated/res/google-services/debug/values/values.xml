@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">311992653670-5pq88pp0q5r17nbu7pr8gf5icm18pk1f.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://autolay-89482.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">311992653670</string>
+    <string name="google_api_key" translatable="false">AIzaSyBS6EP3t5wS8Irh7okha6HyRatjDZc9K_U</string>
+    <string name="google_app_id" translatable="false">1:311992653670:android:23eb0d00a541350c435aa7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBS6EP3t5wS8Irh7okha6HyRatjDZc9K_U</string>
+    <string name="google_storage_bucket" translatable="false">autolay-89482.appspot.com</string>
+    <string name="project_id" translatable="false">autolay-89482</string>
+</resources>

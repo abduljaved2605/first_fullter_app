@@ -1,0 +1,7 @@
+An Observatory debugger and profiler on sdk gphone x86 is available at: http://127.0.0.1:62316/SYiT5c1PCo8=/       
+D/EGL_emulation(20099): eglMakeCurrent: 0xf6f62f30: ver 3 0 (tinfo 0xf72b7a10)
+W/rst_fullter_ap(20099): Verification of java.util.Iterator com.android.org.conscrypt.OpenSSLX509CertPath.getEncodings() took 100.309ms (49.85 bytecodes/s) (760B approximate peak alloc)
+W/rst_fullter_ap(20099): Verification of boolean com.google.android.gms.common.Feature.equals(java.lang.Object) took 761.966ms (73.49 bytecodes/s) (1328B approximate peak alloc)
+W/BiChannelGoogleApi(20099): [FirebaseAuth: ] getGoogleApiForMethod() returned Gms: com.google.firebase.auth.api.internal.zzak@911a33a
+I/flutter (20099): PlatformException(FirebaseException, An internal error has occurred., null)
+I/flutter (20099): error signing in*****
